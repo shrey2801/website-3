@@ -1,3 +1,4 @@
+===============================================
 Getting the site up and running for development
 ===============================================
 
@@ -200,3 +201,4 @@ build::
 
 The last command will run forever, watching for changes made to the
 source and rebuilding the project on each update. Press Ctrl+C to interrupt it.
+==============================================================================
